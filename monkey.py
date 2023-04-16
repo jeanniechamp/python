@@ -10,5 +10,5 @@ print(z)
 for i in range(0,100,10):
     print(i)
 
-    for y in range(1000,150,-50):
+    for y in range(1000,150,-50): #inner loop
         print(y)
