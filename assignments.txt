@@ -1,0 +1,19 @@
+Write a python program under new folder "assignment 1"
+
+1. to show number entered by user.
+
+2. to show name entered by user.
+
+3. to add two number entered by user.
+
+4. to multiply two number by user.
+
+5. to get modulus of numbers entered by user.
+
+6. to get exponential of 2 numbers
+
+7. to make a list of basic colors and print
+
+8. to make disctionary of your freinds roll number and name.
+
+9. to add todays fuel price entered by user with 10$ 3 cents.
