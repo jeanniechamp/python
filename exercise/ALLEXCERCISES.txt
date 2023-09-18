@@ -1,0 +1,186 @@
+Exercise: compare numbers
+
+Ask the user to enter two numbers and tell us which one is bigger.
+
+
+
+Exercise:  Python Program to Display the Multiplication Table of any number entered.
+
+Exercise: Print the last digit of any number entered. (2 methods)
+
+Exercise: Write a program to check whether an years is leap year or not.
+
+Exercise: Write a program to accept a number from 1 to 12 and display name of the month and days in
+
+that month like 1 for January and number of days 31 and so on
+
+Exercise: Write a program to check whether a number entered is three digit number or not.
+
+Exercise: Write a program to check whether a person is eligible for voting or not.(voting age > = 18)
+
+ Exercise: Write a program to check whether a person is senior citizen or not.
+
+Exercise: Write a program to find the lowest number out of two numbers excepted from user.
+
+Exercise: Write a program to find the largest number out of two numbers excepted from user.
+
+Exercise: Write a program to check whether a number (accepted from user) is positive or negative.
+
+Exercise: Write a program to check whether a number is even or odd.
+
+Exercise: Rectangular
+
+Write a script that will ask for the sides of a rectangular and print out the area.
+
+Provide error messages if either of the sides is negative.
+
+
+
+Exercise: Calculator
+
+Create a script that accepts 2 numbers and an operator (+, -, *, /), and prints the result of the
+
+operation.
+
+
+
+Exercise: Number guessing game - level 0
+
+Level 0
+
+Using the random module the computer “thinks” about a whole number between 1 and 20.
+
+The user has to guess the number. After the user types in the guess the computer tells if this was
+
+bigger or smaller than the number it generated, or if was the same.
+
+The game ends after just one guess
+
+
+
+Exercise: Fruit salad
+
+Write a script that will pick 3 fruits from a list of fruits like the one we had in one of the earlier
+
+slides. Print the 3 names.
+
+Could you make sure the 3 fruits are different?
+
+
+
+Exercise: compare strings
+
+Ask the user to enter two strings
+
+Then ask the user to select if she wants to compare them based on ASCII or based on their length
+
+Then tell us which one is bigger.
+
+
+Exercise: one string in another string
+
+Write script that accepts two strings and tells if one of them can be found in the other and where?
+
+Exercise: to ASCII CLI
+
+Write script that gets a character on the command line and prints out the ascii code of it.
+
+Maybe even:
+
+Write script that gets a string on the command line and prints out the ascii code of each character.
+
+Exercise: from ASCII CLI
+
+Write script that accepts a number on the command line and prints the character represented by that
+
+number.
+
+
+
+Exercise: Print all the locations in a string
+
+Given a string like “The black cat climbed the green tree.”, print out the location of every “c” charcater
+
+
+
+Exercise: Number guessing game
+
+Level 0
+
+Using the random module the computer “thinks” about a whole number between 1 and 20.
+
+The user has to guess the number. After the user types in the guess the computer tells if this was
+
+bigger or smaller than the number it generated, or if was the same.
+
+The game ends after just one guess.
+
+Level 1
+
+The user can guess several times. The game ends when the user guessed the right number.
+
+Level 2
+
+If the user hits ‘x’, we leave the game without guessing the number.
+
+Level 3
+
+If the user presses ‘s’, show the hidden value (cheat)
+
+Level 4
+
+Soon we’ll have a level in which the hidden value changes after each guess. In oredr to make that
+
+mode easier to track and debug, first we would like to have a “debug mode”.
+
+If the user presses ‘d’ the game gets into “debug mode”: the system starts to show the current
+
+number to guess every time, just before asking the user for new input.
+
+Pressing ‘d’ again turns off debug mode. (It is a toggle each press on “d” changes the value to to the
+
+other possible value.)
+
+Level 5
+
+The ‘m’ button is another toggle. It is called ‘move mode’. When it is ‘on’, the hidden number
+
+changes a little bit after every step (+/-2). Pressing ‘m’ again will turn this feature off.
+
+Level 6
+
+Let the user play several games.
+
+Pressing ‘n’ will skip this game and start a new one. Generates a new number to guess.
+
+Exercise: MasterMind
+
+Implement the MasterMind game.
+
+The computer “thinks” a number with 4 different digits.
+
+You guess which digits. For every digit that matched both
+
+in value, and in location the computer gives you a *. For every
+
+digit that matches in value, but not in space the computer gives
+
+you a +. Try to guess the given number in as few guesses as possible.
+
+1 Computer: 2153
+
+2 You: 2467 *
+
+3 You: 2715 *++
+
+Exercise: Count unique characters
+
+Given a string on the command line, count how many differnt characters it has
+
+
+
+Exercise: Check if number is prime
+
+Write a program that gets a number on the commnad line a prints “True” if the number is a prime
+
+number or “False” if it isn’t.
