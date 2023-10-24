@@ -1,5 +1,5 @@
 agecolour = input("What is your age and your favourite colour? (Seperate answers with a coma, eg, 13,blue) ")
-agecolour=int(agecolour)
+agecolour =int(agecolour)
 if agecolour >= 12:
     print("You are eligible to join the blue club!")
 elif agecolour <= 12:
