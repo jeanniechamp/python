@@ -44,7 +44,7 @@ operation.
 
 
 
-Exercise: Number guessing game - level 0
+Exercise: Number guessing game - level 
 
 Level 0
 
