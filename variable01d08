@@ -1,0 +1,10 @@
+iq = 100 #statement
+user_age = iq / 5 #statement
+iq / 5 #expression
+
+#a vaariable can be used to store data, string int etc
+
+value = 10
+value += 4
+print (value)
+
