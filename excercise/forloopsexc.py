@@ -20,3 +20,13 @@ for x in range (1,51):
 for i in range(1, 51):
     total += i
 print(total)
+
+#Find the product of all the numbers from 1 to 10.
+
+for x in range (1,11):
+
+
+    total = 1
+    for i in range(1, 11):
+        total *= i
+print(total)
